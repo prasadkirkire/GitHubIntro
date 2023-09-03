@@ -1,3 +1,7 @@
 Shopping List:-
 
 #Fruits:
+Apples
+Oranges
+Bananas
+Cherries
