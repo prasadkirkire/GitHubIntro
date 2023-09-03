@@ -7,3 +7,6 @@ Bananas
 Cherries
 
 #Vegitables:
+Carrots
+Cucumbers
+Radishes
